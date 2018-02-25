@@ -1,0 +1,5 @@
+{
+    "TOKEN": "Telegram token",
+    "CHAT_ID": "Chat ID to send messages directly",
+    "CHECK_FOLDER": "Path of the folder where files will be checked"
+}
